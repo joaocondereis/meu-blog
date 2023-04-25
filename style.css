@@ -1,0 +1,61 @@
+#contact iframe
+{
+    width: 100%;
+}
+.viagem_mainDiv
+{
+border: 1px solid rgb(74, 75, 74);  
+text-align: center;  
+}
+
+.viagem_mainDiv img
+{
+    width: 70%;
+}
+
+.viagem_mainDiv h5  , .viagem_mainDiv p
+{
+    margin: 20px;
+}
+
+/* adicionado somente quando precisamos editar a img */
+.imgFilme{
+    width: 30%;
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+  
+}
+
+
+
+
+.filmesHead
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+/* seta nome do filme */
+.filmesHead i 
+{
+float: right;
+}
+
+.filmesText span
+{
+color: rgb(183, 0, 255);
+
+}
+
+.filmesText{
+    text-align: center;
+}
+
+.img-responsive{
+width: 300px;
+height: 400px;
+}
